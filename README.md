@@ -16,7 +16,7 @@
 
 <br>
 
-Foreword notes:
+###### Foreword notes:
 - Many things are programmed. Large problems are tackled via successive programming. Applications must perform well in the face of difficulty.
 - The programmer will learn Lisp to understand the structure and interpretation of computer programs.
 - Three principles:
@@ -37,7 +37,7 @@ Foreword notes:
 - SICP is a serious Lisp and programming book irregardless of who its readers are. Note that most Lisp books are used to prepare the reader for work in AI. However, through Lisp, there will be much overlap within the two disciplines of engineering and science.
 - Tools and programming languages come about from the rise of software problems. AI is a no different source of cause. As the organization of software becomes paramount to realizing greater potential, languages arise to meet such needs. These programming languages become lesser and lesser primitive the nearer it and its underlying functionalities reach human comprehension. Lisp is a language written to be so simple in syntactical comprehension that parsing technologies act insignificantly.
 
-2nd Edition Preface notes:
+###### 2nd Edition Preface notes:
 - The materials and principles of this book have been taught and implemented numerous and numerous times since they've formed the basis of MIT's entry-level computer science subject since 1980. The cores of new computer systems and languages were born out of the ideas students and readers of this material and text have taken.
 - The program implementations of Scheme have been rewritten in this edition to conform the book to the IEEE Scheme standard (IEEE 1990) to run code.
 - This new edition emphasizes several new themes:
@@ -50,10 +50,12 @@ Foreword notes:
     - Supplementary materials.
     - Downloadable implementations of the Scheme dialect of Lisp.
 
-1st Edition Preface notes:
+###### 1st Edition Preface notes:
 - This introductory computer-science subject is designed to reflect two major concerns:
     - Programming languages are formal mediums for expressing ideas about methodologies apart from their ability to simply perform operations. Thus, programs must first and foremost be humanly comprehensible.
     - The essence of the material is to teach the techniques used to control the intellectual complexity of large software systems. Controlling complexity enables the creation of more ambitious programs.
+
+
 - Students who complete this subject should be adept programmers:
     - Having command of the techniques used to control complexity.
     - Being capable of reading 50-page long programs (when written in exemplary style).
@@ -63,21 +65,30 @@ Foreword notes:
         - Abstractions are used to control complexity by hiding unnecessary details.
         - Furthermore of such, conventional interfaces are used to enable programmers to construct systems by combining standard, well-understood pieces.
         - Furthermore of such, programming languages are designed to emphasize particular important features and to deemphasize irrelevant ones.
+
+
 - Computer science is little about actual science and its significance is little about computers. What it encapsulates is a revolution in the way we think and express our ideas, the computer revolution, the essence of which may be best described as "*procedural epistemology*".
     - Procedural epistemology -> the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects.
         - Mathematics is the framework that answers "what is".
         - Computation is the framework that. answers "how to".
 
+
 - The lack of complicated syntactic structure and ways of forming compound expressions allows Lisp-like languages to be learned effortlessly.
     - An hour is all it takes to teach formal properties.
     - Enabling programmers to forget syntactic details (due to its nonexistence) further enable them to tackle the issue at hand: what to compute and how to decompose problems into manageable parts.
+
+
 - The design of Lisp allows programmers to use large-scale strategies for the modular decomposition of programs, all of which are embedded in an interactive environment that enables incremental program design, construction, testing, and debugging:
     - The creation of procedural and data abstractions.
     - Usage of higher-order functions to capture common patterns of usage.
     - Modelling local state using assignment and data mutation.
     - Linking parts of a program with streams and delayed evaluation.
     - Ability to implement embedded languages.
+
+
 - The unprecedented power and elegance of Lisp is attributed to the generations of Lisp wizards throughout the times, starting with John McCarthy.
+
+
 - Scheme, the dialect of Lisp used, is the attempt of combining the power (effectiveness) and elegance (efficiency) of Lisp and Algol.
 	- From Lisp:
 		- Simple syntax
