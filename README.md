@@ -9,7 +9,7 @@
 - Sample programming assignments: <https://mitpress.mit.edu/sites/default/files/sicp/psets/index.html>
 - Code from the book: <https://mitpress.mit.edu/sites/default/files/sicp/code/index.html>
 - Errata (Text-error corrections): <https://mitpress.mit.edu/sites/default/files/sicp/errata.html>
-- Getting scheme:
+- Getting scheme "**NOTICE: MIT/GNU scheme does NOT work (build of binaries and portable SVM fails on my Arch Linux system for some reason)**":
 	- MIT/GNU Scheme: <https://www.gnu.org/software/mit-scheme/>
 	- MIT/GNU Scheme User's Manual: <https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-user.html>
 	- MIT/GNU Scheme Reference: <https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-ref.html>
